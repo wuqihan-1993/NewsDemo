@@ -17,7 +17,7 @@ var Main = require('./components/Main');
 export default class NewsDemo extends Component {
   render() {
     return (
-      <Main></Main>
+      <Main />
     );
   }
 }

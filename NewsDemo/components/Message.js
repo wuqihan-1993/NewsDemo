@@ -12,7 +12,7 @@ class Message extends Component {
   }
   render() {
     return(
-      <View>
+      <View style={{backgroundColor:'red', flex:1}}>
         <Text>消息</Text>
       </View>
     )

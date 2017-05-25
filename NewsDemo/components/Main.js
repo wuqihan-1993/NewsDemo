@@ -35,12 +35,12 @@ class Main extends Component {
             }
           }>
           <NavigatorIOS
-            barTintColor = 'orange'
-            titleTextColor = 'white'
-            initialRoute={{
-              component:Home,
-              title:'首页'
-          }} />
+              style={{flex:1}}
+              initialRoute={{
+                  component:Home,
+                  title:'首页'
+              }}
+          />
         </TabBarIOS.Item>
 
         <TabBarIOS.Item

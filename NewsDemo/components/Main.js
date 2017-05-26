@@ -1,7 +1,8 @@
 import React,{Component} from 'react'
 import {
     View,
-    TabBarIOS
+    TabBarIOS,
+    NavigatorIOS
 } from 'react-native'
 
 const Home = require('./Home')
@@ -22,7 +23,17 @@ class Main extends Component {
                     selectedIcon={{uri:'tabbar_home_highlighted',scale:2}}
                     selected={this.state.selectedIndex == 0}
                     onPress={()=>{this.setState({selectedIndex:0})}}>
-                    <Home/>
+                    <NavigatorIOS
+                        tintColor={'orange'}
+                        style={{flex:1}}
+                        initialRoute={
+                        {
+                            component:Home,
+                            title:"首页",
+                            leftButtonIcon:{uri:'navigationbar_friendattention',scale:2},
+                            rightButtonIcon:{uri:'navigationbar_pop',scale:2}
+                        }
+                    }/>
                 </TabBarIOS.Item>
 
                 <TabBarIOS.Item

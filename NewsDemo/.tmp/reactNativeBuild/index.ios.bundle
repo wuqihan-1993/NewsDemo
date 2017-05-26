@@ -1244,7 +1244,7 @@ babelHelpers.toConsumableArray = function (arr) {
 __d(/* NewsDemo/index.ios.js */function(global, require, module, exports) {Object.defineProperty(exports, "__esModule", {
     value: true
 });
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/index.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/index.ios.js';
 
 var _react = require(12     ); // 12 = react
 
@@ -7307,7 +7307,7 @@ module.exports = logError;
 __d(/* ActivityIndicator */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/ActivityIndicator/ActivityIndicator.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/ActivityIndicator/ActivityIndicator.js';
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
 var Platform = require(60        ); // 60 = Platform
@@ -25154,7 +25154,7 @@ module.exports = ReactSimpleEmptyComponent;
 __d(/* View */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/View/View.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/View/View.js';
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
 var NativeModules = require(47             ); // 47 = NativeModules
 var Platform = require(60        ); // 60 = Platform
@@ -26611,7 +26611,7 @@ __d(/* UnimplementedView */function(global, require, module, exports) {
 
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js';
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
 
@@ -27960,7 +27960,7 @@ module.exports = verifyPropTypes;
 __d(/* ReactNativeART */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/ART/ReactNativeART.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/ART/ReactNativeART.js';
 var Color = require(281             ); // 281 = art/core/color
 var Path = require(282                  ); // 282 = ARTSerializablePath
 var Transform = require(285                 ); // 285 = art/core/transform
@@ -29298,7 +29298,7 @@ module.exports = Class({
 __d(/* Button */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Button.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Button.js';
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var Platform = require(60        ); // 60 = Platform
 var React = require(234    ); // 234 = React
@@ -29447,7 +29447,7 @@ module.exports = Button;
 __d(/* Text */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Text/Text.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Text/Text.js';
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var EdgeInsetsPropType = require(250                 ); // 250 = EdgeInsetsPropType
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
@@ -29679,7 +29679,7 @@ __d(/* Touchable */function(global, require, module, exports) {
 
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Touchable/Touchable.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Touchable/Touchable.js';
 var BoundingDimensions = require(289                 ); // 289 = BoundingDimensions
 var Platform = require(60        ); // 60 = Platform
 var Position = require(290       ); // 290 = Position
@@ -30249,7 +30249,7 @@ __d(/* TouchableNativeFeedback */function(global, require, module, exports) {
 
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js';
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
 var Text = require(287   ); // 287 = Text
@@ -30310,7 +30310,7 @@ module.exports = DummyTouchableNativeFeedback;
 __d(/* TouchableOpacity */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Touchable/TouchableOpacity.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Touchable/TouchableOpacity.js';
 
 
 var Animated = require(296       ); // 296 = Animated
@@ -30488,7 +30488,7 @@ module.exports = Animated;
 __d(/* AnimatedImplementation */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Animated/src/AnimatedImplementation.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Animated/src/AnimatedImplementation.js';
 var InteractionManager = require(298                 ); // 298 = InteractionManager
 var Interpolation = require(301            ); // 301 = Interpolation
 var NativeAnimatedHelper = require(302                   ); // 302 = NativeAnimatedHelper
@@ -33851,7 +33851,7 @@ module.exports = function bezier(mX1, mY1, mX2, mY2) {
 __d(/* Image */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Image/Image.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Image/Image.ios.js';
 var EdgeInsetsPropType = require(250                 ); // 250 = EdgeInsetsPropType
 var ImageResizeMode = require(237              ); // 237 = ImageResizeMode
 var ImageSourcePropType = require(309                  ); // 309 = ImageSourcePropType
@@ -34020,7 +34020,7 @@ module.exports = ImageSourcePropType;
 __d(/* ScrollView */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js';
 var Animated = require(296       ); // 296 = Animated
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var EdgeInsetsPropType = require(250                 ); // 250 = EdgeInsetsPropType
@@ -34797,7 +34797,7 @@ module.exports = Subscribable;
 __d(/* ScrollViewStickyHeader */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader.js';
 var Animated = require(296       ); // 296 = Animated
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
@@ -35142,7 +35142,7 @@ module.exports = ensurePositiveDelayProps;
 __d(/* DatePickerIOS */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/DatePicker/DatePickerIOS.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/DatePicker/DatePickerIOS.ios.js';
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
@@ -35263,7 +35263,7 @@ module.exports = require(259                ); // 259 = UnimplementedView
 __d(/* FlatList */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Lists/FlatList.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Lists/FlatList.js';
 var MetroListView = require(323            ); // 323 = MetroListView
 var React = require(234    ); // 234 = React
 var ReactNative = require(92           ); // 92 = ReactNative
@@ -35491,7 +35491,7 @@ module.exports = FlatList;
 __d(/* MetroListView */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Lists/MetroListView.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Lists/MetroListView.js';
 var ListView = require(324       ); // 324 = ListView
 var React = require(234    ); // 234 = React
 var RefreshControl = require(329             ); // 329 = RefreshControl
@@ -35664,7 +35664,7 @@ module.exports = MetroListView;
 __d(/* ListView */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Lists/ListView/ListView.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Lists/ListView/ListView.js';
 var ListViewDataSource = require(325                 ); // 325 = ListViewDataSource
 var Platform = require(60        ); // 60 = Platform
 var React = require(234    ); // 234 = React
@@ -36450,7 +36450,7 @@ module.exports = cloneReferencedElement;
 __d(/* RefreshControl */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/RefreshControl/RefreshControl.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/RefreshControl/RefreshControl.js';
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
 var Platform = require(60        ); // 60 = Platform
@@ -36544,7 +36544,7 @@ module.exports = RefreshControl;
 __d(/* VirtualizedList */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Lists/VirtualizedList.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Lists/VirtualizedList.js';
 var Batchinator = require(331          ); // 331 = Batchinator
 var React = require(234    ); // 234 = React
 var ReactNative = require(92           ); // 92 = ReactNative
@@ -37670,7 +37670,7 @@ module.exports = ImageStore;
 __d(/* KeyboardAvoidingView */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js';
 var Keyboard = require(82        ); // 82 = Keyboard
 var LayoutAnimation = require(337              ); // 337 = LayoutAnimation
 var Platform = require(60        ); // 60 = Platform
@@ -37956,7 +37956,7 @@ module.exports = LayoutAnimation;
 __d(/* Modal */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Modal/Modal.js',
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Modal/Modal.js',
     _container;
 
 var AppContainer = require(339           ); // 339 = AppContainer
@@ -38089,7 +38089,7 @@ __d(/* AppContainer */function(global, require, module, exports) {
 
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/ReactNative/AppContainer.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/ReactNative/AppContainer.js';
 var EmitterSubscription = require(77                   ); // 77 = EmitterSubscription
 var RCTDeviceEventEmitter = require(75                     ); // 75 = RCTDeviceEventEmitter
 var React = require(234    ); // 234 = React
@@ -38220,7 +38220,7 @@ __d(/* Inspector */function(global, require, module, exports) {
 
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/Inspector.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/Inspector.js';
 var Dimensions = require(262         ); // 262 = Dimensions
 var InspectorOverlay = require(341               ); // 341 = InspectorOverlay
 var InspectorPanel = require(346             ); // 346 = InspectorPanel
@@ -38489,7 +38489,7 @@ module.exports = Inspector;
 __d(/* InspectorOverlay */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/InspectorOverlay.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/InspectorOverlay.js';
 var Dimensions = require(262         ); // 262 = Dimensions
 var InspectorUtils = require(342             ); // 342 = InspectorUtils
 var React = require(234    ); // 234 = React
@@ -38624,7 +38624,7 @@ module.exports = { findInstanceByNativeTag: findInstanceByNativeTag, getOwnerHie
 __d(/* ElementBox */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/ElementBox.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/ElementBox.js';
 var React = require(234    ); // 234 = React
 var View = require(233   ); // 233 = View
 var StyleSheet = require(260         ); // 260 = StyleSheet
@@ -38720,7 +38720,7 @@ module.exports = ElementBox;
 __d(/* BorderBox */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/BorderBox.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/BorderBox.js';
 var React = require(234    ); // 234 = React
 var View = require(233   ); // 233 = View
 
@@ -38804,7 +38804,7 @@ module.exports = resolveBoxStyle;
 __d(/* InspectorPanel */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/InspectorPanel.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/InspectorPanel.js';
 var ElementProperties = require(347                ); // 347 = ElementProperties
 var NetworkOverlay = require(355             ); // 355 = NetworkOverlay
 var PerformanceOverlay = require(358                 ); // 358 = PerformanceOverlay
@@ -39045,7 +39045,7 @@ module.exports = InspectorPanel;
 __d(/* ElementProperties */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/ElementProperties.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/ElementProperties.js';
 var BoxInspector = require(348           ); // 348 = BoxInspector
 var React = require(234    ); // 234 = React
 var StyleInspector = require(349             ); // 349 = StyleInspector
@@ -39276,7 +39276,7 @@ module.exports = ElementProperties;
 __d(/* BoxInspector */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/BoxInspector.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/BoxInspector.js';
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
 var Text = require(287   ); // 287 = Text
@@ -39493,7 +39493,7 @@ module.exports = BoxInspector;
 __d(/* StyleInspector */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/StyleInspector.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/StyleInspector.js';
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
 var Text = require(287   ); // 287 = Text
@@ -39608,7 +39608,7 @@ module.exports = StyleInspector;
 __d(/* TouchableHighlight */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js';
 
 
 var ColorPropType = require(89             ); // 89 = ColorPropType
@@ -39877,7 +39877,7 @@ module.exports = openFileInEditor;
 __d(/* NetworkOverlay */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/NetworkOverlay.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/NetworkOverlay.js';
 var ListView = require(324       ); // 324 = ListView
 var React = require(234    ); // 234 = React
 var ScrollView = require(310         ); // 310 = ScrollView
@@ -40806,7 +40806,7 @@ module.exports = XHRInterceptor;
 __d(/* PerformanceOverlay */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Inspector/PerformanceOverlay.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Inspector/PerformanceOverlay.js';
 var PerformanceLogger = require(182                ); // 182 = PerformanceLogger
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
@@ -40900,7 +40900,7 @@ __d(/* YellowBox */function(global, require, module, exports) {
 
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/ReactNative/YellowBox.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/ReactNative/YellowBox.js';
 var EventEmitter = require(76            ); // 76 = EventEmitter
 var Platform = require(60        ); // 60 = Platform
 var React = require(234    ); // 234 = React
@@ -41530,7 +41530,7 @@ module.exports = I18nManager;
 __d(/* NavigatorIOS */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Navigation/NavigatorIOS.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Navigation/NavigatorIOS.ios.js';
 var EventEmitter = require(76            ); // 76 = EventEmitter
 var Image = require(308    ); // 308 = Image
 var RCTNavigatorManager = require(47             ).NavigatorManager; // 47 = NativeModules
@@ -42080,7 +42080,7 @@ __d(/* Picker */function(global, require, module, exports) {
 
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Picker/Picker.js',
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Picker/Picker.js',
     _class,
     _temp;
 
@@ -42203,7 +42203,7 @@ module.exports = Picker;
 __d(/* PickerIOS */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js',
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js',
     _class,
     _temp;
 
@@ -42355,7 +42355,7 @@ module.exports = require(259                ); // 259 = UnimplementedView
 __d(/* ProgressViewIOS */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios.js';
 var Image = require(308    ); // 308 = Image
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
 var React = require(234    ); // 234 = React
@@ -42409,7 +42409,7 @@ module.exports = ProgressViewIOS;
 __d(/* SectionList */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Lists/SectionList.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Lists/SectionList.js';
 var MetroListView = require(323            ); // 323 = MetroListView
 var Platform = require(60        ); // 60 = Platform
 var React = require(234    ); // 234 = React
@@ -42450,7 +42450,7 @@ module.exports = SectionList;
 __d(/* VirtualizedSectionList */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Lists/VirtualizedSectionList.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Lists/VirtualizedSectionList.js';
 var React = require(234    ); // 234 = React
 var View = require(233   ); // 233 = View
 var VirtualizedList = require(330              ); // 330 = VirtualizedList
@@ -42650,7 +42650,7 @@ module.exports = VirtualizedSectionList;
 __d(/* SegmentedControlIOS */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios.js';
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
@@ -42721,7 +42721,7 @@ module.exports = SegmentedControlIOS;
 __d(/* Slider */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Slider/Slider.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Slider/Slider.js';
 var Image = require(308    ); // 308 = Image
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
@@ -42858,7 +42858,7 @@ module.exports = Slider;
 __d(/* SnapshotViewIOS */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js';
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
 
@@ -42931,7 +42931,7 @@ module.exports = SnapshotViewIOS;
 __d(/* Switch */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/Switch/Switch.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/Switch/Switch.js';
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var NativeMethodsMixin = require(91                  ); // 91 = NativeMethodsMixin
 var Platform = require(60        ); // 60 = Platform
@@ -43258,7 +43258,7 @@ module.exports = StatusBar;
 __d(/* SwipeableListView */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js';
 var ListView = require(324       ); // 324 = ListView
 var React = require(234    ); // 234 = React
 var SwipeableListViewDataSource = require(376                          ); // 376 = SwipeableListViewDataSource
@@ -43513,7 +43513,7 @@ module.exports = SwipeableListViewDataSource;
 __d(/* SwipeableRow */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableRow.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableRow.js';
 var Animated = require(296       ); // 296 = Animated
 var I18nManager = require(360          ); // 360 = I18nManager
 var PanResponder = require(378           ); // 378 = PanResponder
@@ -44018,7 +44018,7 @@ module.exports = TouchHistoryMath;
 __d(/* TabBarIOS */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarIOS.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarIOS.ios.js';
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var React = require(234    ); // 234 = React
 var StyleSheet = require(260         ); // 260 = StyleSheet
@@ -44090,7 +44090,7 @@ module.exports = TabBarIOS;
 __d(/* TabBarItemIOS */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarItemIOS.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/TabBarIOS/TabBarItemIOS.ios.js';
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var Image = require(308    ); // 308 = Image
 var React = require(234    ); // 234 = React
@@ -44219,7 +44219,7 @@ module.exports = TabBarItemIOS;
 __d(/* TextInput */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/TextInput/TextInput.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/TextInput/TextInput.js';
 var ColorPropType = require(89             ); // 89 = ColorPropType
 var DocumentSelectionState = require(383                     ); // 383 = DocumentSelectionState
 var EventEmitter = require(76            ); // 76 = EventEmitter
@@ -45174,7 +45174,7 @@ module.exports = require(259                ); // 259 = UnimplementedView
 __d(/* WebView */function(global, require, module, exports) {
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js';
 var ActivityIndicator = require(88                 ); // 88 = ActivityIndicator
 var EdgeInsetsPropType = require(250                 ); // 250 = EdgeInsetsPropType
 var React = require(234    ); // 234 = React
@@ -45847,7 +45847,7 @@ __d(/* renderApplication */function(global, require, module, exports) {
 
 'use strict';
 
-var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/node_modules/react-native/Libraries/ReactNative/renderApplication.js';
+var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/node_modules/react-native/Libraries/ReactNative/renderApplication.js';
 var AppContainer = require(339           ); // 339 = AppContainer
 var React = require(234    ); // 234 = React
 var ReactNative = require(92           ); // 92 = ReactNative
@@ -47691,7 +47691,7 @@ function throwOnWrongReactAPI(key) {
 
 module.exports = throwOnWrongReactAPI;
 }, 416, null, "throwOnWrongReactAPI");
-__d(/* NewsDemo/components/Main.js */function(global, require, module, exports) {var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/components/Main.js';
+__d(/* NewsDemo/components/Main.js */function(global, require, module, exports) {var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/components/Main.js';
 
 var _react = require(12     ); // 12 = react
 
@@ -47724,7 +47724,7 @@ var Main = function (_Component) {
                 _reactNative.TabBarIOS,
                 { tintColor: 'orange', __source: {
                         fileName: _jsxFileName,
-                        lineNumber: 18
+                        lineNumber: 19
                     }
                 },
                 _react2.default.createElement(
@@ -47738,13 +47738,20 @@ var Main = function (_Component) {
                             _this2.setState({ selectedIndex: 0 });
                         }, __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 19
+                            lineNumber: 20
                         }
                     },
-                    _react2.default.createElement(Home, {
-                        __source: {
+                    _react2.default.createElement(_reactNative.NavigatorIOS, {
+                        tintColor: 'orange',
+                        style: { flex: 1 },
+                        initialRoute: {
+                            component: Home,
+                            title: "首页",
+                            leftButtonIcon: { uri: 'navigationbar_friendattention', scale: 2 },
+                            rightButtonIcon: { uri: 'navigationbar_pop', scale: 2 }
+                        }, __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 25
+                            lineNumber: 26
                         }
                     })
                 ),
@@ -47757,7 +47764,7 @@ var Main = function (_Component) {
                         _this2.setState({ selectedIndex: 1 });
                     }, __source: {
                         fileName: _jsxFileName,
-                        lineNumber: 28
+                        lineNumber: 39
                     }
                 }),
                 _react2.default.createElement(
@@ -47771,13 +47778,13 @@ var Main = function (_Component) {
                             _this2.setState({ selectedIndex: 2 });
                         }, __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 36
+                            lineNumber: 47
                         }
                     },
                     _react2.default.createElement(_reactNative.View, {
                         __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 42
+                            lineNumber: 53
                         }
                     })
                 ),
@@ -47792,13 +47799,13 @@ var Main = function (_Component) {
                             _this2.setState({ selectedIndex: 3 });
                         }, __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 45
+                            lineNumber: 56
                         }
                     },
                     _react2.default.createElement(_reactNative.View, {
                         __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 51
+                            lineNumber: 62
                         }
                     })
                 )
@@ -47810,7 +47817,7 @@ var Main = function (_Component) {
 
 module.exports = Main;
 }, 417, null, "NewsDemo/components/Main.js");
-__d(/* NewsDemo/components/Home.js */function(global, require, module, exports) {var _jsxFileName = '/Users/wuqh/Documents/webstormProjects/NewsDemo/components/Home.js';
+__d(/* NewsDemo/components/Home.js */function(global, require, module, exports) {var _jsxFileName = '/Users/wuqh/Desktop/MyGit/NewsDemo/NewsDemo/components/Home.js';
 
 var _react = require(12     ); // 12 = react
 
